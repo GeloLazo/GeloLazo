@@ -37,8 +37,8 @@ Graduate of BS Information Technology from Jose Rizal University. Passionate abo
 ## 📬 Connect with Me
 
 - **Email:** [evangelolazo@gmail.com](mailto:evangelolazo@gmail.com)
-- **Location:** Mandaluyong City, Philippines
-- **Contact Number:** +63 956 600 7105
+
+
 
 ---
 
