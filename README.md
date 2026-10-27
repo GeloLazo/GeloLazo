@@ -1,4 +1,4 @@
-# Hi there, I'm Evan Gelo Lazo 👋
+# Hi there, I'm Evan Gelo Lazo 
 
 **IT Graduate | Entry-Level Software Developer | Game Dev (Godot)**
 
