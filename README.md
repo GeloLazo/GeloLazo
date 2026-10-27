@@ -8,7 +8,7 @@ Graduate of BS Information Technology from Jose Rizal University. Passionate abo
 
 ##  Projects
 
-### 📌 [Fire Hazard Mapping System of Mandaluyong City](https://github.com/GeloLazo/fire-hazard-gis-mandaluyong)
+### 📌 [Fire Hazard Mapping System of Mandaluyong City](https://github.com/GeloLazo/-fire-hazard-gis-mandaluyong)
 - **Tech Stack:** React, Node.js, Express, TypeScript, PostgreSQL, GIS Mapping, Time-Series Forecasting
 - Capstone research project (*ICMLAS 2026*) focusing on spatial fire risk assessment, hydrant network mapping, and incident tracking for Mandaluyong City.
 
